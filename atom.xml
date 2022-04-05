@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://franxee.github.io/</id>
     <title>G_blog</title>
-    <updated>2022-04-05T05:22:29.616Z</updated>
+    <updated>2022-04-05T06:06:58.497Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://franxee.github.io/"/>
     <link rel="self" href="https://franxee.github.io/atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>https://franxee.github.io/images/avatar.png</logo>
     <icon>https://franxee.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, G_blog</rights>
+    <entry>
+        <title type="html"><![CDATA[红蝶玩法指津]]></title>
+        <id>https://franxee.github.io/post/michiko/</id>
+        <link href="https://franxee.github.io/post/michiko/">
+        </link>
+        <updated>2022-04-05T05:50:53.000Z</updated>
+        <content type="html"><![CDATA[<p>这个角色被削了很多，越来越考技术了。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[园丁玩法指津]]></title>
+        <id>https://franxee.github.io/post/emma_woods/</id>
+        <link href="https://franxee.github.io/post/emma_woods/">
+        </link>
+        <updated>2022-04-05T05:45:49.000Z</updated>
+        <content type="html"><![CDATA[<p>这个角色十分悲哀。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[勘探员玩法指津]]></title>
         <id>https://franxee.github.io/post/norton/</id>
